@@ -23,3 +23,7 @@ Projeto backend da aplicação
 ## 4. Segregar/separar as interfaces ao inves de criar tudo dentro de uma grande interface;
 ## 5. Mostrado exemplo em vídeo na hora: 01:06:50 até 01:31:20
 # SOLID
+
+# Configurando Jest
+## Pacotes para baixar: yarn add -D jest @types/jest @swc/core @swc/jest ts-node
+## Inicializando Jest: npx jest --init
